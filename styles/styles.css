@@ -1,8 +1,11 @@
+h1 {
+    text-align: center;
+}
+
 #grid {
   background-color:red;
   height: 220;
   width: 220;
-  text-align: center;
   padding: 0;
   margin:0 auto;
 }
@@ -16,8 +19,9 @@
   float:left;
 }
 
-.resetButton {
-  display: inline-block;
+.button {
+   text-decoration:none;
+   display: inline-block;
    margin: 0 10px 0 0;
    padding: 15px 45px;
    font-size: 18px;
