@@ -1,4 +1,18 @@
+#grid {
+  background-color:red;
+  height: 220;
+  width: 220;
+  text-align: center;
+}
 
+.unit {
+  background-color: blue;
+  height:20px;
+  width: 20px;
+  margin: 1px;
+  display: inline-block;
+  float:left;
+}
 
 .button {
   display: inline-block;
